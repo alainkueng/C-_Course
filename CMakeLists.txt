@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.13)
+project(C-_Course)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(Exercise_1 Exercise_1.cpp)
+add_executable(Exercise_2 Exercise_2.cpp)
+add_executable(Exercise_3 Exercise_3.cpp)
+add_executable(Exercise_4 Exercise_4.cpp)
+add_executable(Exercise_5 Exercise_5.cpp)
