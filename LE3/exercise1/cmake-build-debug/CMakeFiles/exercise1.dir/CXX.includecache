@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/alain/CLionProjects/C-_Course/LE3/exercise1/main.cpp
+iostream
+-
+vector
+/cygdrive/c/Users/alain/CLionProjects/C-_Course/LE3/exercise1/vector
+

@@ -73,11 +73,11 @@ public:
 };
 
 int main(int argc, char *argv[]) {
-    pvector<int> pv1("pvector-int.txt");
-    pvector<char> pv2("pvector-char.txt");
+    pvector<int> pv1("C:/Users/alain/CLionProjects/C-_Course/LE2/Exercise_1/pvector-int.txt");
+    pvector<char> pv2("C:/Users/alain/CLionProjects/C-_Course/LE2/Exercise_1/pvector-char.txt");
 
-    pv1.push_back(6);
-    pv2.push_back('f');
+    pv1.push_back(7);
+    pv2.push_back('t');
 
     return 0;
 }

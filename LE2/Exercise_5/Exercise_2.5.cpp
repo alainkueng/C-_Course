@@ -1,6 +1,5 @@
 
 #include <iostream>
-
 /*
 § Have a look at the following swap routines
 • void swap(int &a, int &b) { int c=a; a=b; b=c; }
